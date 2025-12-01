@@ -1,0 +1,7 @@
+{
+  "name": "DEVICE OS v5.0 | HUD",
+  "description": "Next-gen industrial operating system with real-time analytics, persistent local storage, and immersive cyberpunk UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
